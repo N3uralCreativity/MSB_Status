@@ -1,3 +1,23 @@
 {
-  "status": "Pending"
+  "Joins": {
+    "status": "Service Stopped"
+  },
+  "Blacklist": {
+    "status": "404",
+    "status_link": "https://MSB.xyz/v1/system/blackliststatus/status"
+  },
+  "DevNotes": {
+    "Notes": [
+      {
+        "Date": "05/16/2023 - 6:23 pm",
+        "Author": "InvalidCreativity",
+        "Content": "Get status source here (copy & paste): "
+      },
+      {
+        "Date": "05/16/2023 - 6:12 pm",
+        "Author": "InvalidCreativity",
+        "Content": "Please note: All services have been permanently shut down and will no longer be supported."
+      }
+    ]
+  }
 }
