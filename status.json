@@ -11,12 +11,12 @@
       {
         "Date": "05/16/2023 - 6:23 pm",
         "Author": "InvalidCreativity",
-        "Content": "Get status source here (copy & paste): https://n3uralcreativity.github.io/MSB_Status/status.json"
+        "Content": "$^[SelectableText=true] { Get status source here (copy & paste): https://n3uralcreativity.github.io/MSB_Status/status.json }^$"
       },
       {
         "Date": "05/16/2023 - 6:12 pm",
         "Author": "InvalidCreativity",
-        "Content": "Please note: All services have been permanently shut down and the game will no longer be supported."
+        "Content": "^[SelectableText=false] { Please note: All services have been permanently shut down and the game will no longer be supported. }^$"
       }
     ]
   }
