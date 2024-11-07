@@ -16,7 +16,7 @@
       {
         "Date": "05/16/2023 - 6:12 pm",
         "Author": "InvalidCreativity",
-        "Content": "^[SelectableText=false] { Please note: All services have been permanently shut down and the game will no longer be supported. }^$"
+        "Content": "$^[SelectableText=false] { Please note: All services have been permanently shut down and the game will no longer be supported. }^$"
       }
     ]
   }
